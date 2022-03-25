@@ -18,9 +18,11 @@ function cToF(x) { // 20
 function fToC(y) { //20
     var fc = ((y - 32) * 5) / 9
     return fc
-
+}
 
 function conversion() {
     var c = prompt("Do you want to convert from F to C -press 1-, or from C to F --press 2")
     return c
 }
+
+// lwnergioneqrjo eqg egqkn4w5hkmnkmnkehrtasmnkhtersneajkrn rg3jqr   35 35q3 35yq 3y5qj 35jl 3ah5 jl3hl jgrwh kghrwnk wartkjwaghk nwaghk 
